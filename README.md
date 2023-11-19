@@ -45,6 +45,8 @@ python mint.py
 
 ## 运行结果（example）
 
+<img width="499" alt="image" src="https://github.com/seandong/inscription_minter/assets/758427/80af5816-1d0a-42ab-bb03-5cfc5f79e7bf">
+
 
 
 
