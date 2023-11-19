@@ -1,5 +1,5 @@
-# An inscription mint tool
-# 铭文铸造脚本工具
+# An inscription mint script
+# 铭文铸造脚本
 
 > [!WARNING]
 > 免责申明：由使用脚本带来的任何资金损失，与脚本作者无关，请谨慎使用。
@@ -37,7 +37,7 @@ MAX_MINT_TIMES=1
 WAIT_RECEIPT=1
 ```
 
-4. 执行脚本
+4. 运行脚本
 
 ```bash
 python mint.py
