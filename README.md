@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 3. 配置参数
 
-将文件 `.env.template` 重命名为 `.env`，并修改配置：
+编辑 `.env` 文件，修改如下配置：
 
 ```sh
 # 接收者地址
