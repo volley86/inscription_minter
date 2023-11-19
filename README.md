@@ -2,14 +2,14 @@
 # 铭文铸造脚本
 
 > [!WARNING]
-> 免责申明：由使用脚本带来的任何资金损失，与脚本作者无关，请谨慎使用。
+> 免责申明：由因使用脚本铸造铭文带来的任何损失，与本作者无关，请谨慎使用。
 
 ## 使用说明
 
 1. 安装 python 环境及 pip
 
 2. 安装依赖包
-```bash
+```sh
 pip install -r requirements.txt
 ```
 
@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 将文件 `.env.template` 重命名为 `.env`，并修改配置：
 
-```bash
+```sh
 # 接收者地址
 RECIPIENT_ADDRESS=xxx
 
@@ -39,7 +39,7 @@ WAIT_RECEIPT=1
 
 4. 运行脚本
 
-```bash
+```sh
 python mint.py
 ```
 
