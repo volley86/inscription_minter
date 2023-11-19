@@ -8,7 +8,9 @@
 
 1. 安装 python 环境及 pip
 
-2. 安装依赖包
+不知道的 google 下 ~
+
+2. 安装 python 依赖包
 ```sh
 pip install -r requirements.txt
 ```
@@ -43,7 +45,7 @@ WAIT_RECEIPT=1
 python mint.py
 ```
 
-## 运行结果（example）
+执行结果：
 
 <img width="499" alt="image" src="https://github.com/seandong/inscription_minter/assets/758427/80af5816-1d0a-42ab-bb03-5cfc5f79e7bf">
 
