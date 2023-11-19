@@ -6,16 +6,17 @@
 
 ## 使用说明
 
-1. 安装 python 环境及 pip
+##### 1. 安装 python 环境及 pip
 
-不知道的 google 下 ~
+> google 下 ~
 
-2. 安装 python 依赖包
+##### 2. 安装 python 依赖包
+
 ```sh
 pip install -r requirements.txt
 ```
 
-3. 配置参数
+##### 3. 配置参数
 
 编辑 `.env` 文件，修改如下配置：
 
@@ -39,7 +40,7 @@ MAX_MINT_TIMES=1
 WAIT_RECEIPT=1
 ```
 
-4. 运行脚本
+##### 4. 执行脚本
 
 ```sh
 python mint.py
