@@ -33,8 +33,12 @@ TEXT_DATA='data:,{"p":"bsc-20","op":"mint","tick":"bnbi","amt":"5000"}'
 # 配置网络节点，可参考：https://www.1rpc.io/
 RPC_URL=https://1rpc.io/bnb
 
+# 设置最高矿工小费，根据实际使用网络调整
+MAX_PRIORITY_FEE=9
+
 # 铭文铸造次数
 MAX_MINT_TIMES=1
+
 
 # 等待交易回执
 WAIT_RECEIPT=1
