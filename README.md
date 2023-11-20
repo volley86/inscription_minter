@@ -8,7 +8,7 @@
 
 ##### 1. 安装 python 环境及 pip
 
-> google 下 ~
+> 自行 google 下 ~
 
 ##### 2. 安装 python 依赖包
 
@@ -33,12 +33,11 @@ TEXT_DATA='data:,{"p":"bsc-20","op":"mint","tick":"bnbi","amt":"5000"}'
 # 配置网络节点，可参考：https://www.1rpc.io/
 RPC_URL=https://1rpc.io/bnb
 
-# 设置最高矿工小费，根据实际使用网络调整
+# 设置最高矿工小费，根据实际网络情况调整
 MAX_PRIORITY_FEE=9
 
 # 铭文铸造次数
 MAX_MINT_TIMES=1
-
 
 # 等待交易回执
 WAIT_RECEIPT=1
